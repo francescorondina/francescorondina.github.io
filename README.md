@@ -126,11 +126,12 @@ Working on dyno and engine combustion chamber data acquisition, engine calibrati
 
 Team competitions and results:
 
-**Formula Student UK 2011**
-  - 1st Italian team
-  - 10th place overall
-  - "Best Newcomer" award
-  - National Instruments "Most innovative use of an embedded system in a car" award
-**Formula Student Hungary 2011**
-  - 1st Italian team
-  - 15th place overall
+    **Formula Student UK 2011**
+      - 1st Italian team
+      - 10th place overall
+      - "Best Newcomer" award
+      - National Instruments "Most innovative use of an embedded system in a car" award
+
+    **Formula Student Hungary 2011**
+      - 1st Italian team
+      - 15th place overall
