@@ -52,7 +52,8 @@ _TBD_
 
 3. Sanguini N., Benacchio T., Malacrida D., Cipolletta F, Rondina F., Sciarappa A., Capone L. Next-generation HPC models for future rotorcraft applications. Proc. ECCOMAS Congress 2022, 5-9 June 2022, Oslo (NO).
 
-4. Rondina F., Falaschetti M.P., Zavatta N., Donati L. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. Comp. Struct., 2022, 303:116300.
+4. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. [link](https://doi.org/10.1016/j.compstruct.2022.116300 "Rondina F., Falaschetti M.P., Zavatta N., Donati L. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. Comp. Struct., 2022, 303:116300.")
+[comment]: <> (4. Rondina F., Falaschetti M.P., Zavatta N., Donati L. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. Comp. Struct., 2022, 303:116300.)
 
 5. Falaschetti M.P., Zavatta N., Rondina F., Troiani E., Donati L. Numerical Investigation of Al-Reinforced CFRP Composite under Low-Velocity Impact. Key Eng. Mat., 2021, 926, 1959.
 
