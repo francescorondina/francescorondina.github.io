@@ -13,7 +13,7 @@ Develop proprietary computational mechanics solution to service the engineering 
   - Improve FE framework with data-driven material model capabilities 
   - Demonstrate Physics-enhanced AI techniques for inference and identification problems.
   - **_Technologies used:_** HPC, C++, Python, FEA.
-<br><br>
+<br>
 
 **Post-doc researcher** @ [Unibo](https://www.unibo.it) _(Jan 2020 - Dec 2021)_ <br>
 Define and coordinate the research activities in composite materials lab:
@@ -22,29 +22,29 @@ Define and coordinate the research activities in composite materials lab:
   - Simulation techniques for composites compression moulding process.
   - Participant in [CMH-17](https://www.cmh17.org/HOME/Polymer-Matrix/Crashworthiness "Composite Material Handbook") PMC crashworthiness group
   - **_Technologies used:_** FEA, ESI-VPS, Abaqus, DoE.
-<br><br>
+<br>
 
 **Post-doc Researcher** @ [DTU](https://www.dtu.dk/english/) _(Jan 2019 - Dec 2019)_ <br>
 Participate in the [CORTIR](https://www.bladena.com/cortir.html) EUDP funded project:
   - Implement a post-processing routine for the analysis of the stress-state of bimaterial interface cracks.
   - Develop an automated simulation routine for accelerated fatigue crack propagation and analysis.
-  - Contribute to the updated version of the Blade [Handbook](https://www.bladena.com/news/archives/12-2019) with improved text and figures on the **Fracture mechanics** section [pdf excerpt](link).<br><br>
+  - Contribute to the updated version of the Blade [Handbook](https://www.bladena.com/news/archives/12-2019) with improved text and figures on the **Fracture mechanics** section [pdf excerpt](link).
+<br>
 
 **Research fellow** @ [CIRI-MAM](https://centri.unibo.it/mam/it) _(Nov 2017 - Dec 2018)_ <br>
 Contract work with **Automobili Lamborghini** on passive safety:
   - Evaluation of design solutions with respect to homologation criteria.
   - Numerical simulation of relevant homologation tests (front bumper leg impact, pendulum, head impact, etc.).
   - Material qualification and implementation on numerical codes.
-<br><br>
+<br>
 
-## 🗞 Funded Projects
+## 📌 Funded Projects
 
 **CARIM**
 
 _TBD_
 
 ## 📄 Scientific Publications
-
 
 1. Fadiga E., Rondina F., Oliani S., Benacchio T., Malacrida D., Capone L.. An HPC Multi-physics Framework For next-generation Industrial Aircraft simulations. 10th Int. Conf. on Computational Methods for Coupled Problems in Science and Engineering, 5-7 June 2023, Chania (GR).
 
@@ -66,35 +66,31 @@ _TBD_
 
 10. Rondina F., Taddia S., Mazzocchetti L., Donati L., Minak G., Rosenberg P., Bedeschi A., Dolcini E. Development of full carbon wheels for sport cars with high-volume technology, C. Struct., 2018, 192, 368.
 
-
-## 📌 Conferences participations
+## 🌍 Conferences participations
 
 **CMH-17**: Composite Mateiral Handbook 68th PMC Coordination Meeting [website](https://www.cmh17.org/MEETINGS/CMH-17-PMC-Meeting) in Charleston, SC _(30 July - 2 August 2018)_ <br>
 Including:
-  - Adhesive Bond Damage Tolerance & Failure Assessment Short Course by Max Davis 
-  - SAMPE Carolinas Social Event
-  - Tour of Boeing facility in Charleston _link to picture_
-  <br><br>
+  - Attending the Short course: "Adhesive Bond Damage Tolerance & Failure Assessment" by Max Davis 
+  - Tour of Boeing facility in Charleston _link to picture_ <br>
 
 **ASIDIC 17**: Aerospace Structural Impact Dynamics International Conference [event link](https://asidiconference.org/?page_id=3176) in Wichita, KS _(17-19 October 2017)_<br>
 Presentation: "A review of the crashworthiness activities carried out at University of Bologna".
-included on event [Proceedings](https://asidiconference.org/wp-content/uploads/2018/02/v8.pdf)  <br><br>
-
+included on event [Proceedings](https://asidiconference.org/wp-content/uploads/2018/02/v8.pdf). <br>
 
 **JEC World:** [website](https://www.jeccomposites.com/events/jec-world-2018/) in Paris, France _(6-8 March 2018)_
 Presentation: "Damage modelling of composite materials for crashworthy applications". 
-Technical session presented at JEC World ESI booth. [pdf link](link)
+Technical session presented at JEC World ESI booth. [pdf link](link) <br>
 
 **Mechcomp3:** International Conference on Mechanics of Composites in Bologna, Italy _(4-7 July 2017)_ 
 Presentation: "Validation of a CDM model for predicting the axial crush response of CFRP composite.
-Published in event [Proceedings](link)
+Published in event [Proceedings](link) <br>
 
 ## 💬 Languages
 
 🇮🇹 **Italian**: Native <br>
 🇬🇧 **English**: C1 <br>
 🇩🇪 **German**: B2 <br>
-🇫🇷 **French**: A1 <br><br>
+<br>
 
 ## 👩🏼‍🎓 Education
 
@@ -116,22 +112,20 @@ Experimental activities on microstructure analysis of extruded aluminium alloys 
   - Analysis of grain boundary structure and spatial distribution 
   - **Awarded:** Spinner 2013 grant from Regione Emilia Romagna.
 
-
 **International Exchange** @ [Reykjavik University](https://en.ru.is/), Iceland _(Jan - Jun 2012)_ <br>
 Studying Geothermal energy.
-
 
 **Formula Student** @ [Unibo motorsport](https://motorsport.unibo.it/) _(Jan - Aug 2011)_<br>
 Working on dyno and engine combustion chamber data acquisition, engine calibration mapping for National Instrument onboard control system.
 
-Team competitions and results:
+_Team competitions and results:_
 
-    **Formula Student UK 2011**
-      - 1st Italian team
-      - 10th place overall
-      - "Best Newcomer" award
-      - National Instruments "Most innovative use of an embedded system in a car" award
+- Formula Student UK 2011
+  - 1st Italian team
+  - 10th place overall
+  - "Best Newcomer" award
+  - National Instruments "Most innovative use of an embedded system in a car" award
 
-    **Formula Student Hungary 2011**
-      - 1st Italian team
-      - 15th place overall
+- Formula Student Hungary 2011
+  - 1st Italian team
+  - 15th place overall
