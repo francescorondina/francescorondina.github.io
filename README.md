@@ -28,7 +28,7 @@ Define and coordinate the research activities in composite materials lab:
 Participate in the [CORTIR](https://www.bladena.com/cortir.html) EUDP funded project:
   - Implement a post-processing routine for the analysis of the stress-state of bimaterial interface cracks.
   - Develop an automated simulation routine for accelerated fatigue crack propagation and analysis.
-  - Contribute to the updated version of the Blade [Handbook](https://www.bladena.com/news/archives/12-2019) with improved text and figures on the **Fracture mechanics** section [pdf excerpt](link).
+  - Contribute to the updated version of the Blade [Handbook](https://www.bladena.com/news/archives/12-2019) with improved text and figures on the **Fracture mechanics** section [extract](/assets/pdf/Blade_Handbook-extract.pdf).
 <br>
 
 **Research fellow** @ [CIRI-MAM](https://centri.unibo.it/mam/it) _(Nov 2017 - Dec 2018)_ <br>
