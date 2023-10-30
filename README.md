@@ -46,45 +46,44 @@ _TBD_
 
 ## 📄 Scientific Publications
 
-1. Fadiga E., Rondina F., Oliani S., Benacchio T., Malacrida D., Capone L.. An HPC Multi-physics Framework For next-generation Industrial Aircraft simulations. 10th Int. Conf. on Computational Methods for Coupled Problems in Science and Engineering, 5-7 June 2023, Chania (GR).
+1. An HPC Multi-physics Framework For next-generation Industrial Aircraft simulations. [pending](https://coupled2023.cimne.com/event/contribution/2b77d5d8-a3df-11ed-b019-000c29ddfc0c "Fadiga E., Rondina F., Oliani S., Benacchio T., Malacrida D., Capone L.. An HPC Multi-physics Framework For next-generation Industrial Aircraft simulations. 10th Int. Conf. on Computational Methods for Coupled Problems in Science and Engineering, 5-7 June 2023, Chania (GR).")
 
-2. Falaschetti M.P., Rondina F., Maccaferri E., Mazzocchetti L., Donati L., Zucchelli A., Giorgini L. Improving the crashworthiness of CFRP structures by rubbery nanofibrous interlayers. C. Struct., 2023,  311:116845.
+2. Improving the crashworthiness of CFRP structures by rubbery nanofibrous interlayers. [Science Direct](https://doi.org/10.1016/j.compstruct.2023.116845 "Falaschetti M.P., Rondina F., Maccaferri E., Mazzocchetti L., Donati L., Zucchelli A., Giorgini L. Improving the crashworthiness of CFRP structures by rubbery nanofibrous interlayers. C. Struct., 2023,  311:116845.")
 
-3. Sanguini N., Benacchio T., Malacrida D., Cipolletta F, Rondina F., Sciarappa A., Capone L. Next-generation HPC models for future rotorcraft applications. Proc. ECCOMAS Congress 2022, 5-9 June 2022, Oslo (NO).
+3. Next-generation HPC models for future rotorcraft applications. [ArXiv](https://arxiv.org/abs/2207.12269 "Sanguini N., Benacchio T., Malacrida D., Cipolletta F, Rondina F., Sciarappa A., Capone L. Next-generation HPC models for future rotorcraft applications. Proc. ECCOMAS Congress 2022, 5-9 June 2022, Oslo (NO).")
 
-4. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. [link](https://doi.org/10.1016/j.compstruct.2022.116300 "Rondina F., Falaschetti M.P., Zavatta N., Donati L. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. Comp. Struct., 2022, 303:116300.")
-[comment]: <> (4. Rondina F., Falaschetti M.P., Zavatta N., Donati L. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. Comp. Struct., 2022, 303:116300.)
+4. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. [Science Direct](https://doi.org/10.1016/j.compstruct.2022.116300 "Rondina F., Falaschetti M.P., Zavatta N., Donati L. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. Comp. Struct., 2022, 303:116300.")
 
-5. Falaschetti M.P., Zavatta N., Rondina F., Troiani E., Donati L. Numerical Investigation of Al-Reinforced CFRP Composite under Low-Velocity Impact. Key Eng. Mat., 2021, 926, 1959.
+5. Numerical Investigation of Al-Reinforced CFRP Composite under Low-Velocity Impact. [Scientific.net](https://www.scientific.net/KEM.926.1959 "Falaschetti M.P., Zavatta N., Rondina F., Troiani E., Donati L. Numerical Investigation of Al-Reinforced CFRP Composite under Low-Velocity Impact. Key Eng. Mat., 2021, 926, 1959.")
 
-6. Zavatta N., Rondina F., Falaschetti M.P., Donati L. Effect of thermal ageing on the mechanical strength of carbon fibre reinforced epoxy composites, Polymers, 2021, 13, 2006.
+6. Effect of Thermal Ageing on the Mechanical Strength of Carbon Fibre Reinforced Epoxy Composites. [MDPI](https://www.mdpi.com/2073-4360/13/12/2006 "Zavatta N., Rondina F., Falaschetti M.P., Donati L. Effect of thermal ageing on the mechanical strength of carbon fibre reinforced epoxy composites, Polymers, 2021, 13, 2006.")
 
-7. Rondina F., Donati L. Comparison and validation of computational methods for the prediction of the compressive crush energy absorption of CFRP structures, Comp. Struct., 2020, 254:112848.
+7. Comparison and validation of computational methods for the prediction of the compressive crush energy absorption of CFRP structures. [Science Direct](https://doi.org/10.1016/j.compstruct.2020.112848 "Rondina F., Donati L. Comparison and validation of computational methods for the prediction of the compressive crush energy absorption of CFRP structures, Comp. Struct., 2020, 254:112848.")
 
-8. Falaschetti M.P., Rondina F., Zavatta N., Gragnani L., Gironi M., Troiani E., Donati L. Material Characterization for Reliable Resin Transfer Molding Process Simulation. Appl. Sci., 2020, 10, 1814.
+8. Material Characterization for Reliable Resin Transfer Molding Process Simulation. [MDPI](https://www.mdpi.com/2076-3417/10/5/1814 "Falaschetti M.P., Rondina F., Zavatta N., Gragnani L., Gironi M., Troiani E., Donati L. Material Characterization for Reliable Resin Transfer Molding Process Simulation. Appl. Sci., 2020, 10, 1814.")
 
-9. Falaschetti M.P., Rondina F., Donati L., Troiani E. Influence of Simulation Parameters in the Combined Loading Compression Testing of CFRP Specimens, Proc. Manuf., 2020, 47, 43.
+9. Influence of Simulation Parameters in the Combined Loading Compression Testing of CFRP Specimens. [Science Direct](https://doi.org/10.1016/j.promfg.2020.04.119 "Falaschetti M.P., Rondina F., Donati L., Troiani E. Influence of Simulation Parameters in the Combined Loading Compression Testing of CFRP Specimens, Proc. Manuf., 2020, 47, 43.")
 
-10. Rondina F., Taddia S., Mazzocchetti L., Donati L., Minak G., Rosenberg P., Bedeschi A., Dolcini E. Development of full carbon wheels for sport cars with high-volume technology, C. Struct., 2018, 192, 368.
+10. Development of full carbon wheels for sport cars with high-volume technology. [Science Direct](https://doi.org/10.1016/j.compstruct.2018.02.083 "Rondina F., Taddia S., Mazzocchetti L., Donati L., Minak G., Rosenberg P., Bedeschi A., Dolcini E. Development of full carbon wheels for sport cars with high-volume technology, C. Struct., 2018, 192, 368.")
 
 ## 🌍 Conferences participations
 
-**CMH-17**: Composite Mateiral Handbook 68th PMC Coordination Meeting [website](https://www.cmh17.org/MEETINGS/CMH-17-PMC-Meeting) in Charleston, SC _(30 July - 2 August 2018)_ <br>
+**CMH-17**: Composite Mateiral Handbook 68th PMC Coordination Meeting. \([website](https://www.cmh17.org/MEETINGS/CMH-17-PMC-Meeting)\) in Charleston, SC _(30 July - 2 August 2018)_ <br>
 Including:
-  - Attending the Short course: "Adhesive Bond Damage Tolerance & Failure Assessment" by Max Davis 
-  - Tour of Boeing facility in Charleston _link to picture_ <br>
+  - Attending the Short course: "Adhesive Bond Damage Tolerance & Failure Assessment" by Max Davis .
+  - Tour of Boeing facility in Charleston. <br>
 
-**ASIDIC 17**: Aerospace Structural Impact Dynamics International Conference [event link](https://asidiconference.org/?page_id=3176) in Wichita, KS _(17-19 October 2017)_<br>
+**ASIDIC 17**: Aerospace Structural Impact Dynamics International Conference \([event link](https://asidiconference.org/?page_id=3176)\) in Wichita, KS _(17-19 October 2017)_<br>
 Presentation: "A review of the crashworthiness activities carried out at University of Bologna".
-included on event [Proceedings](https://asidiconference.org/wp-content/uploads/2018/02/v8.pdf). <br>
+included on event proceedings \([Download](https://asidiconference.org/wp-content/uploads/2018/02/v8.pdf)\). <br>
 
-**JEC World:** [website](https://www.jeccomposites.com/events/jec-world-2018/) in Paris, France _(6-8 March 2018)_
+**JEC World:** \([website](https://www.jeccomposites.com/events/jec-world-2018/)\) in Paris, France _(6-8 March 2018)_
 Presentation: "Damage modelling of composite materials for crashworthy applications". 
 Technical session presented at JEC World ESI booth. [pdf link](link) <br>
 
 **Mechcomp3:** International Conference on Mechanics of Composites in Bologna, Italy _(4-7 July 2017)_ 
 Presentation: "Validation of a CDM model for predicting the axial crush response of CFRP composite.
-Published in event [Proceedings](link) <br>
+Published in event Proceedings [book](https://books.google.it/books/about/Mechcomp3.html?id=KhUlDwAAQBAJ) <br>
 
 ## 💬 Languages
 
