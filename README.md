@@ -1,33 +1,41 @@
 # Francesco Rondina
 
-_Composite materials research engineer_ <br>
+_Composites research engineer_ <br>
 
 [Email](mailto:f.rondina@pm.me) / [LinkedIn](https://www.linkedin.com/in/francescorondina/) / [GitHub](https://github.com/Francesco-Rondina/) / [Researchgate](https://www.researchgate.net/profile/Francesco-Rondina)
 
 ## 👩🏼‍💻 Engineering Experience
 
 **Senior Research Collaborator** @ [Leonardo Labs](https://www.leonardo.com/en/innovation-technology/leonardo-labs/) _(Jan 2022 - Present)_ <br>
-
-_TBD_
-
+Develop proprietary computational mechanics solution to service the engineering team of Leonardo. 
+  - Multiphysics fluid-structure interaction using the [preCICE coupling library](https://precice.org/)
+  - Multi-scale capabilities for high-fidelity failure analysis of composites.
+  - Improve FE framework with data-driven material model capabilities 
+  - Demonstrate Physics-enhanced AI techniques for inference and identification problems.
+  - **_Technologies used:_** HPC, C++, Python, FEA.
 <br><br>
 
 **Post-doc researcher** @ [Unibo](https://www.unibo.it) _(Jan 2020 - Dec 2021)_ <br>
-_placeholder_
+Define and coordinate the research activities in composite materials lab:
+  - Evaluation of CFRP toughening mechanisms using rubber interlayers.
+  - Feasibility study of innovative AM metal-composites bonding.
+  - Simulation techniques for composites compression moulding process.
   - Participant in [CMH-17](https://www.cmh17.org/HOME/Polymer-Matrix/Crashworthiness "Composite Material Handbook") PMC crashworthiness group
-  - **_Technologies used:_** FEA, ESI-VPS, DoE.
+  - **_Technologies used:_** FEA, ESI-VPS, Abaqus, DoE.
 <br><br>
 
 **Post-doc Researcher** @ [DTU](https://www.dtu.dk/english/) _(Jan 2019 - Dec 2019)_ <br>
-description
-  - Participated in the [CORTIR](https://www.bladena.com/cortir.html) EUDP funded project.
-  - Contributed to update the Wind Turbine Blade [Handbook](https://www.bladena.com/news/archives/12-2019) with improved text and figures on the **Fracture mechanics** section [pdf excerpt](link). 
-  - Implemented a post-processing python routine for the analysis of the stress-state of bimaterial interface cracks.
-  - Developed an automated simulation routine for accelerated fatigue crack propagation and analysis.
-    <br><br>
+Participate in the [CORTIR](https://www.bladena.com/cortir.html) EUDP funded project:
+  - Implement a post-processing routine for the analysis of the stress-state of bimaterial interface cracks.
+  - Develop an automated simulation routine for accelerated fatigue crack propagation and analysis.
+  - Contribute to the updated version of the Blade [Handbook](https://www.bladena.com/news/archives/12-2019) with improved text and figures on the **Fracture mechanics** section [pdf excerpt](link).<br><br>
 
 **Research fellow** @ [CIRI-MAM](https://centri.unibo.it/mam/it) _(Nov 2017 - Dec 2018)_ <br>
-_TBD_ <br><br>
+Contract work with **Automobili Lamborghini** on passive safety:
+  - Evaluation of design solutions with respect to homologation criteria.
+  - Numerical simulation of relevant homologation tests (front bumper leg impact, pendulum, head impact, etc.).
+  - Material qualification and implementation on numerical codes.
+<br><br>
 
 ## 🗞 Funded Projects
 
@@ -37,50 +45,49 @@ _TBD_
 
 ## 📄 Scientific Publications
 
-_TBD_
+
+1. Fadiga E., Rondina F., Oliani S., Benacchio T., Malacrida D., Capone L.. An HPC Multi-physics Framework For next-generation Industrial Aircraft simulations. 10th Int. Conf. on Computational Methods for Coupled Problems in Science and Engineering, 5-7 June 2023, Chania (GR).
+
+2. Falaschetti M.P., Rondina F., Maccaferri E., Mazzocchetti L., Donati L., Zucchelli A., Giorgini L. Improving the crashworthiness of CFRP structures by rubbery nanofibrous interlayers. C. Struct., 2023,  311:116845.
+
+3. Sanguini N., Benacchio T., Malacrida D., Cipolletta F, Rondina F., Sciarappa A., Capone L. Next-generation HPC models for future rotorcraft applications. Proc. ECCOMAS Congress 2022, 5-9 June 2022, Oslo (NO).
+
+4. Rondina F., Falaschetti M.P., Zavatta N., Donati L. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. Comp. Struct., 2022, 303:116300.
+
+5. Falaschetti M.P., Zavatta N., Rondina F., Troiani E., Donati L. Numerical Investigation of Al-Reinforced CFRP Composite under Low-Velocity Impact. Key Eng. Mat., 2021, 926, 1959.
+
+6. Zavatta N., Rondina F., Falaschetti M.P., Donati L. Effect of thermal ageing on the mechanical strength of carbon fibre reinforced epoxy composites, Polymers, 2021, 13, 2006.
+
+7. Rondina F., Donati L. Comparison and validation of computational methods for the prediction of the compressive crush energy absorption of CFRP structures, Comp. Struct., 2020, 254:112848.
+
+8. Falaschetti M.P., Rondina F., Zavatta N., Gragnani L., Gironi M., Troiani E., Donati L. Material Characterization for Reliable Resin Transfer Molding Process Simulation. Appl. Sci., 2020, 10, 1814.
+
+9. Falaschetti M.P., Rondina F., Donati L., Troiani E. Influence of Simulation Parameters in the Combined Loading Compression Testing of CFRP Specimens, Proc. Manuf., 2020, 47, 43.
+
+10. Rondina F., Taddia S., Mazzocchetti L., Donati L., Minak G., Rosenberg P., Bedeschi A., Dolcini E. Development of full carbon wheels for sport cars with high-volume technology, C. Struct., 2018, 192, 368.
 
 
 ## 📌 Conferences participations
 
-**ASIDIC 17** @ [NIAR](https://www.wichita.edu/industry_and_defense/NIAR/) Wichita State University _(May 2017)_<br>
-description
-  - Presentation of the activities done at Unibo on crash simulation of CFRP [link]()
-  - Attended something? visited something?
-  <br><br>
-
-**CMH-17 68th PMC Coordination Meeting** @ [Charleston, SC](https://www.cmh17.org/MEETINGS/CMH-17-PMC-Meeting) _(30 July - 2 August 2018)_ <br>
-
+**CMH-17**: Composite Mateiral Handbook 68th PMC Coordination Meeting [website](https://www.cmh17.org/MEETINGS/CMH-17-PMC-Meeting) in Charleston, SC _(30 July - 2 August 2018)_ <br>
 Including:
   - Adhesive Bond Damage Tolerance & Failure Assessment Short Course by Max Davis 
   - SAMPE Carolinas Social Event
-  - Tour of Boeing facility in Charleston _link or picture_
+  - Tour of Boeing facility in Charleston _link to picture_
   <br><br>
 
-
-## Curricular activities
-
-**Master's Thesis work** @ [IUL TU-Dortmund](https://iul.mb.tu-dortmund.de/en/) - Dortmund, Germany _(Apr - Jul 2014)_ <br>
-Experimental activities on microstructure analysis of extruded aluminium alloys profiles.
-  - Awarded Spinner2013 grant from Regione Emilia Romagna.
+**ASIDIC 17**: Aerospace Structural Impact Dynamics International Conference [event link](https://asidiconference.org/?page_id=3176) in Wichita, KS _(17-19 October 2017)_<br>
+Presentation: "A review of the crashworthiness activities carried out at University of Bologna".
+included on event [Proceedings](https://asidiconference.org/wp-content/uploads/2018/02/v8.pdf)  <br><br>
 
 
-**International Exchange** @ [Reykjavik University](https://en.ru.is/) - Reykjavik, Iceland _(Jan - Jun 2012)_ <br>
-Studying Geothermal energy.
+**JEC World:** [website](https://www.jeccomposites.com/events/jec-world-2018/) in Paris, France _(6-8 March 2018)_
+Presentation: "Damage modelling of composite materials for crashworthy applications". 
+Technical session presented at JEC World ESI booth. [pdf link](link)
 
-**Formula Student** @ [Unibo motorsport](https://motorsport.unibo.it/) _(Jan - Aug 2011)_<br>
-Working on acquisition of engine combustion data and engine calibration mapping for National Instrument onboard control system.
-
-Team results:
-
-**Formula Student UK 2011**
-  - 1st Italian team
-  - 10th place OVERALL
-  - "Best Newcomer" award
-  - National Instruments "Most innovative use of an embedded system in a car" award
-
-**Formula Student Hungary 2011**
-  - 1st italian team
-  - 15th place OVERALL
+**Mechcomp3:** International Conference on Mechanics of Composites in Bologna, Italy _(4-7 July 2017)_ 
+Presentation: "Validation of a CDM model for predicting the axial crush response of CFRP composite.
+Published in event [Proceedings](link)
 
 ## 💬 Languages
 
@@ -100,3 +107,30 @@ Team results:
 **Bachelor of Science** in Energy Systems engineering<br>
 [University of Bologna](https://www.unibo.it/) - Bologna, Italy _(2006 - 2009)_
 
+## Curricular activities
+
+**Master's Thesis work** @ [IUL TU-Dortmund](https://iul.mb.tu-dortmund.de/en/), Germany _(Apr - Jul 2014)_ <br>
+Experimental activities on microstructure analysis of extruded aluminium alloys profiles.
+  - Definition of optimal extrusion process parameters
+  - Sample extraction and microscopy inspection
+  - Analysis of grain boundary structure and spatial distribution 
+  - **Awarded:** Spinner 2013 grant from Regione Emilia Romagna.
+
+
+**International Exchange** @ [Reykjavik University](https://en.ru.is/), Iceland _(Jan - Jun 2012)_ <br>
+Studying Geothermal energy.
+
+
+**Formula Student** @ [Unibo motorsport](https://motorsport.unibo.it/) _(Jan - Aug 2011)_<br>
+Working on dyno and engine combustion chamber data acquisition, engine calibration mapping for National Instrument onboard control system.
+
+Team competitions and results:
+
+**Formula Student UK 2011**
+  - 1st Italian team
+  - 10th place overall
+  - "Best Newcomer" award
+  - National Instruments "Most innovative use of an embedded system in a car" award
+**Formula Student Hungary 2011**
+  - 1st Italian team
+  - 15th place overall
