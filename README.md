@@ -7,7 +7,7 @@ _Composites research engineer_ <br>
 ## 👩🏼‍💻 Engineering Experience
 
 **Senior Research Collaborator** @ [Leonardo Labs](https://www.leonardo.com/en/innovation-technology/leonardo-labs/) _(Jan 2022 - Present)_ <br>
-Develop proprietary computational mechanics solution to service the engineering team of Leonardo. 
+Develop proprietary computational mechanics solution in support of the engineering divisions. 
   - Multiphysics fluid-structure interaction using the [preCICE coupling library](https://precice.org/)
   - Multi-scale capabilities for high-fidelity failure analysis of composites.
   - Improve FE framework with data-driven material model capabilities 
