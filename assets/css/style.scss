@@ -2,7 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-.content-container {
-    max-width: 1800px; /* Adjust to your desired width */
-    padding: 16px 8px; 
+body {
+  background-color: #fff;
+  padding:20px;
+  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color:#595959;
+  font-weight:400;
 }
