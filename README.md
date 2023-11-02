@@ -46,7 +46,7 @@ _TBD_
 
 ## 📄 Scientific Publications
 
-1. An HPC Multi-physics Framework For next-generation Industrial Aircraft simulations. [pending](https://coupled2023.cimne.com/event/contribution/2b77d5d8-a3df-11ed-b019-000c29ddfc0c "Fadiga E., Rondina F., Oliani S., Benacchio T., Malacrida D., Capone L.. An HPC Multi-physics Framework For next-generation Industrial Aircraft simulations. 10th Int. Conf. on Computational Methods for Coupled Problems in Science and Engineering, 5-7 June 2023, Chania (GR).")
+1. An HPC Multi-physics Framework For next-generation Industrial Aircraft simulations. [Scipedia](https://www.scipedia.com/public/2023t "E. Fadiga, F. Rondina, T. Benacchio, D. Malacrida, L. Capone and S. Oliani, An HPC Multi-Physics Framework for Next-Generation Industrial Aircraft Simulations, coupled2023 (2023). Vol. Multi-Physics and Multi-Scale Simulations with the Coupling Library preCICE, 22")
 
 2. Improving the crashworthiness of CFRP structures by rubbery nanofibrous interlayers. [Science Direct](https://doi.org/10.1016/j.compstruct.2023.116845 "Falaschetti M.P., Rondina F., Maccaferri E., Mazzocchetti L., Donati L., Zucchelli A., Giorgini L. Improving the crashworthiness of CFRP structures by rubbery nanofibrous interlayers. C. Struct., 2023,  311:116845.")
 
