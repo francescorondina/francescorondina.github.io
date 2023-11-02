@@ -2,7 +2,7 @@
 
 _Composites research engineer_ <br>
 
-[Email](mailto:f.rondina@pm.me) / [LinkedIn](https://www.linkedin.com/in/francescorondina/) / [GitHub](https://github.com/Francesco-Rondina/) / [Researchgate](https://www.researchgate.net/profile/Francesco-Rondina)
+[Email](mailto:f.rondina@pm.me) / [LinkedIn](https://www.linkedin.com/in/francescorondina/) / [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57201552463) / [Researchgate](https://www.researchgate.net/profile/Francesco-Rondina)
 
 ## 👩🏼‍💻 Engineering Experience
 
