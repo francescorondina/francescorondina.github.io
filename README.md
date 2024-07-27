@@ -4,9 +4,16 @@ _Composites research engineer_ <br>
 
 [Email](mailto:f.rondina@pm.me) / [LinkedIn](https://www.linkedin.com/in/francescorondina/) / [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57201552463) / [Researchgate](https://www.researchgate.net/profile/Francesco-Rondina)
 
-## 👩🏼‍💻 Engineering Experience
+## 👩🏼‍💻 Research Experience
 
-**Senior Research Collaborator** @ [Leonardo Labs](https://www.leonardo.com/en/innovation-technology/leonardo-labs/) _(Jan 2022 - Present)_ <br>
+**Senior Research Associate** @ Thermoplastic Composites Research Center. [TPCR](https://www.tprc.nl) _(Since May 2024)_ <br>
+Development and use of numerical tools for the modelling of manufacturing processes for thermoplastic composites parts production.
+  - TPC Stamp forming simulation. [Aniform](https://aniform.com)
+  - Modelling of remelting and welding in injection overmolding process
+  - Implementation of melting and crystallization kinetics for structural analysis.
+<br>
+
+**Senior Research Collaborator** @ [Leonardo Labs](https://www.leonardo.com/en/innovation-technology/leonardo-labs/) _(Jan 2022 - Apr 2024)_ <br>
 Develop proprietary computational mechanics solution in support of the engineering divisions. 
   - Multiphysics fluid-structure interaction using the [preCICE coupling library](https://precice.org/)
   - Multi-scale capabilities for high-fidelity failure analysis of composites.
@@ -40,6 +47,7 @@ Contract work with **Automobili Lamborghini** on passive safety:
 
 ## 📌 Funded Projects
 
+
 **CARIM**
 
 _TBD_
@@ -51,25 +59,27 @@ _TBD_
 
 1. Effective implementation of numerical models for the crashworthiness of composite laminates. [Science Direct](https://www.sciencedirect.com/science/article/pii/S1350630724002425 "M.P. Falaschetti, F. Rondina, N. Zavatta, E. Troiani, L. Donati, Effective implementation of numerical models for the crashworthiness of composite laminates, Engineering Failure Analysis, V. 160, 2024, 108196.") [(open access)](/assets/pdf/1-s2.0-S1350630724002425-main.pdf)
 
-2. An HPC Multi-physics Framework For next-generation Industrial Aircraft simulations. [Scipedia](https://www.scipedia.com/public/2023t "E. Fadiga, F. Rondina, T. Benacchio, D. Malacrida, L. Capone and S. Oliani, An HPC Multi-Physics Framework for Next-Generation Industrial Aircraft Simulations, coupled2023 (2023). Vol. Multi-Physics and Multi-Scale Simulations with the Coupling Library preCICE, 22")
+2. Flutter Prediction Report in Support of the High-Angle Working Group at the Third Aeroelastic Prediction Workshop. [AIAA.org](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0418)
 
-3. Improving the crashworthiness of CFRP structures by rubbery nanofibrous interlayers. [Science Direct](https://doi.org/10.1016/j.compstruct.2023.116845 "Falaschetti M.P., Rondina F., Maccaferri E., Mazzocchetti L., Donati L., Zucchelli A., Giorgini L. Improving the crashworthiness of CFRP structures by rubbery nanofibrous interlayers. Composite Structures, 2023, 311:116845.")
+4. An HPC Multi-physics Framework For next-generation Industrial Aircraft simulations. [Scipedia](https://www.scipedia.com/public/2023t "E. Fadiga, F. Rondina, T. Benacchio, D. Malacrida, L. Capone and S. Oliani, An HPC Multi-Physics Framework for Next-Generation Industrial Aircraft Simulations, coupled2023 (2023). Vol. Multi-Physics and Multi-Scale Simulations with the Coupling Library preCICE, 22")
 
-4. Next-generation HPC models for future rotorcraft applications. [ArXiv](https://arxiv.org/abs/2207.12269 "Sanguini N., Benacchio T., Malacrida D., Cipolletta F, Rondina F., Sciarappa A., Capone L. Next-generation HPC models for future rotorcraft applications. Proc. ECCOMAS Congress 2022, 5-9 June 2022, Oslo (NO).")
+5. Improving the crashworthiness of CFRP structures by rubbery nanofibrous interlayers. [Science Direct](https://doi.org/10.1016/j.compstruct.2023.116845 "Falaschetti M.P., Rondina F., Maccaferri E., Mazzocchetti L., Donati L., Zucchelli A., Giorgini L. Improving the crashworthiness of CFRP structures by rubbery nanofibrous interlayers. Composite Structures, 2023, 311:116845.")
 
-5. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. [Science Direct](https://doi.org/10.1016/j.compstruct.2022.116300 "Rondina F., Falaschetti M.P., Zavatta N., Donati L. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. Comp. Struct., 2022, 303:116300.")
+6. Next-generation HPC models for future rotorcraft applications. [ArXiv](https://arxiv.org/abs/2207.12269 "Sanguini N., Benacchio T., Malacrida D., Cipolletta F, Rondina F., Sciarappa A., Capone L. Next-generation HPC models for future rotorcraft applications. Proc. ECCOMAS Congress 2022, 5-9 June 2022, Oslo (NO).")
 
-6. Numerical Investigation of Al-Reinforced CFRP Composite under Low-Velocity Impact. [Scientific.net](https://www.scientific.net/KEM.926.1959 "Falaschetti M.P., Zavatta N., Rondina F., Troiani E., Donati L. Numerical Investigation of Al-Reinforced CFRP Composite under Low-Velocity Impact. Key Eng. Mat., 2021, 926, 1959.")
+7. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. [Science Direct](https://doi.org/10.1016/j.compstruct.2022.116300 "Rondina F., Falaschetti M.P., Zavatta N., Donati L. Numerical simulation of the compression crushing energy of carbon fiber-epoxy woven composite structures. Comp. Struct., 2022, 303:116300.")
 
-7. Effect of Thermal Ageing on the Mechanical Strength of Carbon Fibre Reinforced Epoxy Composites. [MDPI](https://www.mdpi.com/2073-4360/13/12/2006 "Zavatta N., Rondina F., Falaschetti M.P., Donati L. Effect of thermal ageing on the mechanical strength of carbon fibre reinforced epoxy composites, Polymers, 2021, 13, 2006.")
+8. Numerical Investigation of Al-Reinforced CFRP Composite under Low-Velocity Impact. [Scientific.net](https://www.scientific.net/KEM.926.1959 "Falaschetti M.P., Zavatta N., Rondina F., Troiani E., Donati L. Numerical Investigation of Al-Reinforced CFRP Composite under Low-Velocity Impact. Key Eng. Mat., 2021, 926, 1959.")
 
-8. Comparison and validation of computational methods for the prediction of the compressive crush energy absorption of CFRP structures. [Science Direct](https://doi.org/10.1016/j.compstruct.2020.112848 "Rondina F., Donati L. Comparison and validation of computational methods for the prediction of the compressive crush energy absorption of CFRP structures, Comp. Struct., 2020, 254:112848.")
+9. Effect of Thermal Ageing on the Mechanical Strength of Carbon Fibre Reinforced Epoxy Composites. [MDPI](https://www.mdpi.com/2073-4360/13/12/2006 "Zavatta N., Rondina F., Falaschetti M.P., Donati L. Effect of thermal ageing on the mechanical strength of carbon fibre reinforced epoxy composites, Polymers, 2021, 13, 2006.")
 
-9. Material Characterization for Reliable Resin Transfer Molding Process Simulation. [MDPI](https://www.mdpi.com/2076-3417/10/5/1814 "Falaschetti M.P., Rondina F., Zavatta N., Gragnani L., Gironi M., Troiani E., Donati L. Material Characterization for Reliable Resin Transfer Molding Process Simulation. Appl. Sci., 2020, 10, 1814.")
+10. Comparison and validation of computational methods for the prediction of the compressive crush energy absorption of CFRP structures. [Science Direct](https://doi.org/10.1016/j.compstruct.2020.112848 "Rondina F., Donati L. Comparison and validation of computational methods for the prediction of the compressive crush energy absorption of CFRP structures, Comp. Struct., 2020, 254:112848.")
 
-10. Influence of Simulation Parameters in the Combined Loading Compression Testing of CFRP Specimens. [Science Direct](https://doi.org/10.1016/j.promfg.2020.04.119 "Falaschetti M.P., Rondina F., Donati L., Troiani E. Influence of Simulation Parameters in the Combined Loading Compression Testing of CFRP Specimens, Proc. Manuf., 2020, 47, 43.")
+11. Material Characterization for Reliable Resin Transfer Molding Process Simulation. [MDPI](https://www.mdpi.com/2076-3417/10/5/1814 "Falaschetti M.P., Rondina F., Zavatta N., Gragnani L., Gironi M., Troiani E., Donati L. Material Characterization for Reliable Resin Transfer Molding Process Simulation. Appl. Sci., 2020, 10, 1814.")
 
-11. Development of full carbon wheels for sport cars with high-volume technology. [Science Direct](https://doi.org/10.1016/j.compstruct.2018.02.083 "Rondina F., Taddia S., Mazzocchetti L., Donati L., Minak G., Rosenberg P., Bedeschi A., Dolcini E. Development of full carbon wheels for sport cars with high-volume technology, C. Struct., 2018, 192, 368.")
+12. Influence of Simulation Parameters in the Combined Loading Compression Testing of CFRP Specimens. [Science Direct](https://doi.org/10.1016/j.promfg.2020.04.119 "Falaschetti M.P., Rondina F., Donati L., Troiani E. Influence of Simulation Parameters in the Combined Loading Compression Testing of CFRP Specimens, Proc. Manuf., 2020, 47, 43.")
+
+13. Development of full carbon wheels for sport cars with high-volume technology. [Science Direct](https://doi.org/10.1016/j.compstruct.2018.02.083 "Rondina F., Taddia S., Mazzocchetti L., Donati L., Minak G., Rosenberg P., Bedeschi A., Dolcini E. Development of full carbon wheels for sport cars with high-volume technology, C. Struct., 2018, 192, 368.")
 
 ## 🌍 Conferences participations
 
