@@ -49,7 +49,7 @@ Contract work with **Automobili Lamborghini** on passive safety:
 ## 📌 Funded Projects
 
 
-**CARIM** _2016-2018_
+**CARIM** _(2016-2018)_
 
 [Project page](https://cordis.europa.eu/project/id/690915)
 <br>
