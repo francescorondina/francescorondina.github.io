@@ -1,16 +1,17 @@
 # Francesco Rondina
 
-_Composites research engineer_ <br>
+_Composite materials research engineer_ <br>
 
 [Email](mailto:f.rondina@pm.me) / [LinkedIn](https://www.linkedin.com/in/francescorondina/) / [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57201552463) / [Researchgate](https://www.researchgate.net/profile/Francesco-Rondina)
 
-## 👩🏼‍💻 Research Experience
+## 👩🏼‍💻 Work Experience
 
-**Senior Research Associate** @ Thermoplastic Composites Research Center. [TPCR](https://www.tprc.nl) _(Since May 2024)_ <br>
+**Senior Research Associate** @ Thermoplastic Composites Research Center. [TPRC](https://www.tprc.nl) _(Since May 2024)_ <br>
 Development and use of numerical tools for the modelling of manufacturing processes for thermoplastic composites parts production.
   - TPC Stamp forming simulation. [Aniform](https://aniform.com)
   - Modelling of remelting and welding in injection overmolding process
   - Implementation of melting and crystallization kinetics for structural analysis.
+  - **_Software used:_** Abaqus, Aniform, MoldFlow
 <br>
 
 **Senior Research Collaborator** @ [Leonardo Labs](https://www.leonardo.com/en/innovation-technology/leonardo-labs/) _(Jan 2022 - Apr 2024)_ <br>
@@ -19,7 +20,7 @@ Develop proprietary computational mechanics solution in support of the engineeri
   - Multi-scale capabilities for high-fidelity failure analysis of composites.
   - Improve FE framework with data-driven material model capabilities 
   - Demonstrate Physics-enhanced AI techniques for inference and identification problems.
-  - **_Technologies used:_** HPC, C++, Python, FEA.
+  - **_Technologies used:_** HPC, C++, Python.
 <br>
 
 **Post-doc researcher** @ [Unibo](https://www.unibo.it) _(Jan 2020 - Dec 2021)_ <br>
@@ -28,7 +29,7 @@ Define and coordinate the research activities in composite materials lab:
   - Feasibility study of innovative AM metal-composites bonding.
   - Simulation techniques for composites compression moulding process.
   - Participant in [CMH-17](https://www.cmh17.org/HOME/Polymer-Matrix/Crashworthiness "Composite Material Handbook") PMC crashworthiness group
-  - **_Technologies used:_** FEA, ESI-VPS, Abaqus, DoE.
+  - **_Software used:_** ESI-VPS, Abaqus.
 <br>
 
 **Post-doc Researcher** @ [DTU](https://www.dtu.dk/english/) _(Jan 2019 - Dec 2019)_ <br>
@@ -48,9 +49,7 @@ Contract work with **Automobili Lamborghini** on passive safety:
 ## 📌 Funded Projects
 
 
-**CARIM**
-
-_TBD_
+**CARIM** _2016-2018_
 
 [Project page](https://cordis.europa.eu/project/id/690915)
 <br>
